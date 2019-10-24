@@ -9,10 +9,10 @@ const IndexPage = () => {
     <Layout>
       <Head title="Home" />
       <h1>Home Page</h1>
-      <h2>This is a Basic Gatsby Page</h2>
-      <p>This is definitely under development and is a test site.</p>
+      <h2>Welcome to Gatsby!</h2>
       <p>
-        Need a developer?<Link to="/contact">Contact me</Link>
+        This is a small Gatsby Starter Site with content sourced from the
+        Contentful CMS.
       </p>
     </Layout>
   )
